@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1506813856 source:c:\users\matheus\downloads\Árvores\heap\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
+1506821715 c:\users\matheus\downloads\Árvores\heap\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+
+1506821715 source:c:\users\matheus\downloads\Árvores\heap\avl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
+1506991603 source:c:\users\matheus\downloads\avl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
+1506821715 c:\users\matheus\downloads\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+
+1506813856 source:c:\users\matheus\downloads\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
